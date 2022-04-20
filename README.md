@@ -1,6 +1,8 @@
 # grp-7-avdasi-2-2021-2022
-This is AVDASI GRP-7 code for wing. The wing used a DC motor to actuate a flap whose position was measured with a potentiometer. 
+This is AVDASI GRP-7 code for wing control. In the wing there was a DC motor to actuate a flap whose position was measured with a potentiometer. 
 The aileron was actuated using a standard 9g servo.
+
+We had a ground controller to wirelessly send data to and from the wing.
 
 
 The PID library may look unchanged, but there is a feature added:
